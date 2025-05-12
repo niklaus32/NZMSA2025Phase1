@@ -57,3 +57,9 @@ C:\Users\nikla\Documents\GitHub\NZMSA2025Phase1\DotNetDependencies\bin\Debug\net
 C:\Users\nikla\Documents\GitHub\NZMSA2025Phase1\DotNetDependencies\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
 C:\Users\nikla\Documents\GitHub\NZMSA2025Phase1\DotNetDependencies\obj\Debug\net8.0\DotNetDependencies.csproj.AssemblyReference.cache
 C:\Users\nikla\Documents\GitHub\NZMSA2025Phase1\DotNetDependencies\obj\Debug\net8.0\DotNetDe.D8D57B9E.Up2Date
+C:\Users\nikla\Documents\GitHub\NZMSA2025Phase1\DotNetDependencies\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\nikla\Documents\GitHub\NZMSA2025Phase1\DotNetDependencies\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\nikla\Documents\GitHub\NZMSA2025Phase1\DotNetDependencies\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\nikla\Documents\GitHub\NZMSA2025Phase1\DotNetDependencies\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\nikla\Documents\GitHub\NZMSA2025Phase1\DotNetDependencies\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\nikla\Documents\GitHub\NZMSA2025Phase1\DotNetDependencies\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
